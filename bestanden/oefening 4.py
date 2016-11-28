@@ -46,3 +46,4 @@ while p1 <= 2 and p2 <= 2:
         print("player 1 wins the game")
     if p2 == 3:
         print("player 2 wins the game")
+#hallo
